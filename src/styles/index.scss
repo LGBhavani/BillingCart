@@ -1,0 +1,13 @@
+//Bootstrap
+
+$theme-colors: (
+  "primary":    #85ace8,
+  "secondary":  #20c997
+);
+
+@import "~bootstrap/scss/bootstrap";
+
+
+body{
+  padding-top: 5rem;
+}
